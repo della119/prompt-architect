@@ -1,0 +1,38 @@
+<svg width="680" height="400" viewBox="0 0 680 400" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,'PingFang SC','Microsoft YaHei',Helvetica,Arial,sans-serif">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect width="680" height="400" fill="#ffffff"/>
+
+<rect x="240" y="30" width="200" height="52" rx="8" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.8"/>
+<text x="340" y="55" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">Fable 5 系统提示词</text>
+<text x="340" y="73" text-anchor="middle" font-size="12" fill="#5F5E5A">原始范本（矿石）</text>
+
+<line x1="340" y1="82" x2="340" y2="115" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="205" y="118" width="270" height="56" rx="8" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.8"/>
+<text x="340" y="144" text-anchor="middle" font-size="14" font-weight="500" fill="#26215C">prompt-architect</text>
+<text x="340" y="162" text-anchor="middle" font-size="12" fill="#534AB7">提炼出的可复用模式库</text>
+
+<line x1="340" y1="174" x2="132" y2="207" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="340" y1="174" x2="340" y2="207" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="340" y1="174" x2="548" y2="207" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="40" y="210" width="180" height="62" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.8"/>
+<text x="130" y="237" text-anchor="middle" font-size="14" font-weight="500" fill="#04342C">WRITE · 写</text>
+<text x="130" y="255" text-anchor="middle" font-size="12" fill="#0F6E56">起草 / 重写</text>
+
+<rect x="250" y="210" width="180" height="62" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.8"/>
+<text x="340" y="237" text-anchor="middle" font-size="14" font-weight="500" fill="#04342C">AUDIT · 审查</text>
+<text x="340" y="255" text-anchor="middle" font-size="12" fill="#0F6E56">按量表评分</text>
+
+<rect x="460" y="210" width="180" height="62" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.8"/>
+<text x="550" y="237" text-anchor="middle" font-size="14" font-weight="500" fill="#04342C">REFERENCE · 查</text>
+<text x="550" y="255" text-anchor="middle" font-size="12" fill="#0F6E56">速查模式技巧</text>
+
+<line x1="130" y1="272" x2="338" y2="303" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="340" y1="272" x2="340" y2="303" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+<line x1="550" y1="272" x2="342" y2="303" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<rect x="205" y="306" width="270" height="56" rx="8" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.8"/>
+<text x="340" y="332" text-anchor="middle" font-size="14" font-weight="500" fill="#2C2C2A">产出 → 任意模型</text>
+<text x="340" y="350" text-anchor="middle" font-size="12" fill="#5F5E5A">不依赖 Fable 5 运行</text>
+</svg>
